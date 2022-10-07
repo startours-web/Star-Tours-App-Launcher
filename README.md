@@ -15,3 +15,4 @@ var password;
 ```
 
 **Step 3:** Lastly, you need to create the database that all the accounts will be stored in. Create a database and name it `accounts`. Then import this `csv` file into the database:
+https://github.com/startours-web/Star-Tours-App-Launcher/blob/main/accounts.csv
