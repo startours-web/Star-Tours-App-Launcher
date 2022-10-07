@@ -16,3 +16,6 @@ var password;
 
 **Step 3:** Lastly, you need to create the database that all the accounts will be stored in. Create a database and name it `accounts`. Then import this `csv` file into the database:
 https://github.com/startours-web/Star-Tours-App-Launcher/blob/main/accounts.csv
+
+### Section 2 - Usage
+**Step 1:** Click the settings icon above the toolbox. Click manage libraries. Then import the App Launcher library by putting in the id: EX7OwUpWY_DwCBklDCaUpDxF17B5JXTLYNK8vNTcoRk
