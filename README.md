@@ -1,4 +1,4 @@
-# Star Tours App Launcher
+# Star Tours App Launcher (code.org library)
 Single-Sign-On (SSO) library to launch code.org applications using App Lab.
 
 ----
